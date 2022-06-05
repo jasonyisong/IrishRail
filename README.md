@@ -2,7 +2,7 @@
 
 <img width="1680" alt="image" src="https://user-images.githubusercontent.com/33503189/169656821-a2ab3130-37a2-418a-8ffd-a3f957e17f92.png">
 
-‘’‘
+```
 DECLARE
     l_envelope CLOB;
     l_xml      XMLTYPE;
@@ -38,7 +38,7 @@ BEGIN
 
     -- htp.p('l_xml=' || l_xml.getClobVal());
 END;
-’‘’
+```
 
 <img width="1680" alt="image" src="https://user-images.githubusercontent.com/33503189/169656854-e89eefe0-d0f3-4fed-b02c-bf4061806a1b.png">
 
